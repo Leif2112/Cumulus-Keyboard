@@ -3,4 +3,5 @@
   (lib (name "ProMicroKiCad")(type "KiCad")(uri "${KIPRJMOD}/promicro.pretty")(options "")(descr ""))
   (lib (name "random-keyboard-parts")(type "KiCad")(uri "${KIPRJMOD}/random-keyboard-parts.pretty")(options "")(descr ""))
   (lib (name "MX_Only")(type "KiCad")(uri "${KIPRJMOD}/MX_Only.pretty")(options "")(descr ""))
+  (lib (name "keyboard_reversible")(type "KiCad")(uri "${KIPRJMOD}/keyboard_reversible.pretty")(options "")(descr ""))
 )
